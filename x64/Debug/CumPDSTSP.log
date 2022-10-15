@@ -1,0 +1,6 @@
+﻿  Source1.cpp
+D:\CumPDSTSP\CumPDSTSP\Source1.cpp(45,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\CumPDSTSP\CumPDSTSP\Source1.cpp(56,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CumPDSTSP\CumPDSTSP\Source1.cpp(72,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CumPDSTSP\CumPDSTSP\Source1.cpp(79,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CumPDSTSP.vcxproj -> D:\CumPDSTSP\CumPDSTSP\x64\Debug\CumPDSTSP.exe
